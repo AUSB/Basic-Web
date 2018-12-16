@@ -1,0 +1,113 @@
+nav{
+  display: block;
+  border:5px solid rgb(168, 213, 255);
+  background-color: rgb(196, 226, 255);
+  float: left;
+  width: 150px;
+  border-width: 4px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 151px;
+  overflow-y:
+}
+body{
+  background-image: url("background.gif")
+}
+font{
+  font-family: Times,Arial, sans-serif;
+
+ }
+.whatandwhere{
+  border-style: solid;
+  border-width: 5px;
+  border-color: white;
+  text-align: right;
+  background-color: rgb(168, 213, 255);
+
+}
+
+.total{
+      background-color: white;
+      border-color: white;
+      border-style: solid;
+      border-width: 5px;
+      margin-left: 10%;
+      margin-right: 10%;
+
+}
+
+.border{
+  margin-left: 180px;
+}
+.dosa{
+
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(168, 213, 255);
+    background-color: rgb(196, 226, 255);
+    padding: 5px;
+    margin-top: 10px;
+    overflow-y: auto;
+
+}
+.pide{
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(168, 213, 255);
+    background-color: rgb(196, 226, 255);
+    padding: 5px;
+    margin-top: 10px;
+    overflow-y: auto;
+
+
+}
+.falafel{
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(168, 213, 255);
+    background-color: rgb(196, 226, 255);
+    padding: 5px;
+    margin-top: 10px;
+    overflow-y: auto;
+
+}
+.SpicyPot{
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(168, 213, 255);
+    background-color: rgb(196, 226, 255);
+    padding: 5px;
+    margin-top: 10px;
+    overflow-y: auto;
+
+}
+#blackb{
+
+    float:right;
+    margin-bottom: 0cm;
+}
+#blacke{
+       float: right;
+       margin-bottom: 0cm;
+
+}
+#blackh{
+       float: right;
+       margin-bottom: 0cm;
+
+}
+#blackk{
+       float: right;
+       margin-bottom: 0cm;
+
+}
+
+#dosa,#pide,#falafel,#spicyPot{
+    border-bottom-style: dashed;
+
+    border-width: 3px;
+
+}
+.bottom{
+  text-align: center;
+}
